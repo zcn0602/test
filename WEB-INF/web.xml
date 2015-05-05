@@ -23,7 +23,7 @@
 	</error-page>
 	
 	<session-config>
-	    <session-timeout>3600</session-timeout>
+	    <session-timeout>360</session-timeout>
 	</session-config>
 	
 </web-app>
